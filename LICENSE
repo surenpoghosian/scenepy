@@ -1,3 +1,60 @@
+surenpoghosian/scenepy is licensed under the GNU Affero General Public License,
+version 3.0, as published by the Free Software Foundation, Inc. (AGPLv3),
+the full text of which is included below.
+
+As additional terms under AGPLv3, Section 7, the following apply:
+
+1. Non-Commercial Use Only.
+
+   You may not use this software, or any modified or combined version of
+   it, for any commercial purpose. This includes, without limitation:
+
+     a) Selling copies of the software, or charging a fee for access to it
+        or to services built on it;
+
+     b) Making the functionality of the software available to third
+        parties as a hosted or managed service (SaaS) for payment or other
+        commercial benefit;
+
+     c) Incorporating the software, in whole or in part, into a product or
+        service that is offered commercially or that generates revenue,
+        directly or indirectly, for you or a third party;
+
+     d) Using the software to organize, promote, or sell products or
+        services on behalf of yourself or a third party for commercial
+        gain.
+
+   Use by individuals, students, educators, researchers, non-profit
+   organizations, and community groups (including meetups, local
+   chapters, workshops, or conferences run on a not-for-profit basis, even
+   where reasonable cost-recovery ticket fees are charged) for
+   non-commercial, educational, or community purposes is explicitly
+   permitted.
+
+2. Attribution.
+
+   If you distribute a modified version of this software, or make it
+   available to others (including over a network, per AGPLv3 Section 13),
+   you must retain a visible notice stating that the work is based on
+   surenpoghosian/scenepy, with a link or reference to the original source at
+   https://github.com/surenpoghosian/scenepy.
+
+3. No Misrepresentation.
+
+   You may not give the impression that a modified version of this
+   software, or a service built on it, is an official or original
+   distribution by the original author.
+
+4. Commercial Licensing.
+
+   If you wish to use this software for a purpose not covered by the
+   non-commercial permission above, contact suren_poghosyan@edu.aua.am to discuss
+   a separate commercial license.
+
+Copyright (C) 2026 Suren Poghosyan
+
+
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
