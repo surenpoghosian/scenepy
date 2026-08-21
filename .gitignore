@@ -1,0 +1,23 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python Bytecode and Build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# Virtual Environments
+venv/
+.env
+.venv/
+ENV/
+
+# macOS System Files
+.DS_Store
+.Trashes
+.Spotlight-V105
+
