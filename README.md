@@ -23,7 +23,7 @@ For <b>Windows</b> refer to [this page](https://ffmpeg.org/download.html#build-w
 
 1. synchronize your videos by using the `sync.ipynb`
 
-    Configure the working folder paths and name your files input1.mp4 (speaker video) and input2.mp4 (presentation) accordingly
+    Configure the working folder paths and name your files `input1.mp4` (speaker video) and `input2.mp4` (presentation) accordingly
 
 2. create the final video by using `main.ipynb` by utilizing the configurations at the beginning of the notebook
 
