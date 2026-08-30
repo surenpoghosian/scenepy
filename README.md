@@ -2,6 +2,7 @@
 
 A tool for saving time on conference video post-production through automation
 
+<img width="auto" height="1080" alt="scenepy" src="https://github.com/user-attachments/assets/67467f31-9543-47b5-9f90-fdd52f8f3489" />
 
 
 ### Don't forget to install the ffmpeg command line tools first
