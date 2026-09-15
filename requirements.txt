@@ -1,0 +1,8 @@
+faster-whisper
+google
+google-genai
+ipywidgets
+jupyterlab_widgets
+python-dotenv
+pydub
+librosa
